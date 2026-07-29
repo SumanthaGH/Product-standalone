@@ -4,7 +4,7 @@ meta:
   description: "HealthFoundry's Patient Experience agents support acquisition, care continuity, and feedback management — helping healthcare providers retain patients and close care gaps at scale."
 
 hero:
-  pill: "Customer Experience"
+  pill: "nanu nande"
   titleLine1: "Patient Experience,"
   titleAccent: "at scale"
   subtitle: "From first enquiry to long-term care continuity"
