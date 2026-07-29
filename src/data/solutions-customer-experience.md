@@ -8,7 +8,7 @@ hero:
   titleLine1: "Patient Experience,"
   titleAccent: "at scale"
   subtitle: "From first enquiry to long-term care continuity"
-  body: "Care gaps buried in discharge summaries. Follow-up care that never gets scheduled. Feedback that gets collected but never resolved. HealthFoundry's Patient Experience agents surface what your operational data already knows — and support your teams to act on it."
+  body: "i will get sad if you dont work."
   imageAlt: "OPD patient management interface"
 
 systems:
