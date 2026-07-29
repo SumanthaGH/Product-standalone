@@ -126,3 +126,5 @@ variants:
     - "A government scheme oncology claim has fundamentally different documentation requirements, authorisation logic, and portal workflows than a commercial insurer elective surgery claim. Our methodology maps each significant payer type and claim category as a distinct workflow variant, each with its own logic and requirements."
     - "This matters because automation targeted at the wrong variant produces the wrong result. Our Outcomes-Driven Optimization Blueprint for claims starts with your specific payer mix, procedure mix, and current KPI baseline — before we configure a single agent."
 ---
+
+FinOps solution page content

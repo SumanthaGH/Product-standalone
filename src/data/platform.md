@@ -157,3 +157,5 @@ cta:
     for the fastest measurable impact.
   button: Book a Discovery Call
 ---
+
+Platform page content
