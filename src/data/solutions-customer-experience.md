@@ -1,6 +1,6 @@
 ---
 meta:
-  title: "Patient & Customer Experience | HealthFoundry"
+  title: nanu nande | HealthFoundry"
   description: "HealthFoundry's Patient Experience agents support acquisition, care continuity, and feedback management — helping healthcare providers retain patients and close care gaps at scale."
 
 hero:
